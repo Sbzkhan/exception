@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Test {
+public class Test3 {
 
 	public static void main(String[] args)  {
 		int x=1,y=1,c=0;
